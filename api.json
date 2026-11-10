@@ -1,6 +1,6 @@
 {
   "appName": "ZEPHYR APPS",
   "version": "1.0.0",
-  "apiBaseUrl": "http://163.52.135.119:3243",
+  "apiBaseUrl": "http://134.209.98.212:2001",
   "timeoutSeconds": 30
 }
