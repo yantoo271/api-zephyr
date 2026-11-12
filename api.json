@@ -1,6 +1,6 @@
 {
   "appName": "ZEPHYR APPS",
   "version": "1.0.0",
-  "apiBaseUrl": "http://134.209.98.212:2001",
+  "apiBaseUrl": "http://panel.felixiority.xyz:2006",
   "timeoutSeconds": 30
 }
